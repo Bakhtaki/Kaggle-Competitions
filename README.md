@@ -1,2 +1,2 @@
 # Kaggle-competitionns
-Kaggle Competitions Note book.
+Kaggle Competitions Note books
